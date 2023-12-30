@@ -1,0 +1,40 @@
+body{
+    background: antiquewhite;
+    font-family: fantasy;
+}
+.header_div p{
+    font-family: monospace;
+    color: beige;
+}
+.header_div{
+    background-color: palevioletred;
+    color: beige;
+    position: fixed;
+    top:0;
+    text-shadow: 3px 4px 3px goldenrod;
+}
+.main_div button{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 25px;
+    width: 150px;
+    letter-spacing: 3px;
+    font-size: 25px;
+}
+.copy_right_footer{
+    bottom: 0;
+    position: fixed;
+    background-color: black;
+    color: whitesmoke;
+    line-height: 4;
+    width: 100%;
+    text-align: center;
+}
+center{
+    font-family: 'Single Day', cursive;
+}
+#result_label{
+    font-size: 35px;
+}
+#result_confidence{
+    font-size: 20px;
+}
